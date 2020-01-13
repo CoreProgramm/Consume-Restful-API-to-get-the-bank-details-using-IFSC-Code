@@ -1,0 +1,62 @@
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.csprojAssemblyReference.cache
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.csproj.CoreCompileInputs.cache
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.RazorAssemblyInfo.cache
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.RazorAssemblyInfo.cs
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.AssemblyInfoInputs.cache
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.AssemblyInfo.cs
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\bin\Debug\netcoreapp2.2\BankDetails_IFSC.deps.json
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\bin\Debug\netcoreapp2.2\BankDetails_IFSC.runtimeconfig.json
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\bin\Debug\netcoreapp2.2\BankDetails_IFSC.runtimeconfig.dev.json
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\bin\Debug\netcoreapp2.2\BankDetails_IFSC.dll
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\bin\Debug\netcoreapp2.2\BankDetails_IFSC.pdb
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\bin\Debug\netcoreapp2.2\BankDetails_IFSC.Views.dll
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\bin\Debug\netcoreapp2.2\BankDetails_IFSC.Views.pdb
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.TagHelpers.input.cache
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.TagHelpers.output.cache
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.RazorCoreGenerate.cache
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.RazorTargetAssemblyInfo.cache
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.RazorTargetAssemblyInfo.cs
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.Views.pdb
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.dll
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.pdb
+E:\TECHNOLOGY R&D\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.csproj.CopyComplete
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\bin\Debug\netcoreapp2.2\BankDetails_IFSC.deps.json
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\bin\Debug\netcoreapp2.2\BankDetails_IFSC.runtimeconfig.json
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\bin\Debug\netcoreapp2.2\BankDetails_IFSC.runtimeconfig.dev.json
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\bin\Debug\netcoreapp2.2\BankDetails_IFSC.dll
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\bin\Debug\netcoreapp2.2\BankDetails_IFSC.pdb
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\bin\Debug\netcoreapp2.2\BankDetails_IFSC.Views.dll
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\bin\Debug\netcoreapp2.2\BankDetails_IFSC.Views.pdb
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.csprojAssemblyReference.cache
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.RazorAssemblyInfo.cache
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.RazorAssemblyInfo.cs
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.AssemblyInfoInputs.cache
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.AssemblyInfo.cs
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.TagHelpers.input.cache
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.TagHelpers.output.cache
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.RazorCoreGenerate.cache
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.RazorTargetAssemblyInfo.cache
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.RazorTargetAssemblyInfo.cs
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.Views.pdb
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.dll
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.pdb
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\BankDetails_IFSC.csproj.CopyComplete
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\bin\Debug\netcoreapp2.2\appsettings.json
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\JT\CoreProgramm\Blog\.NET Core\BankDetails_IFSC\BankDetails_IFSC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs

@@ -1,0 +1,70 @@
+﻿@model BankDetails_IFSC.Models.BankDetails
+@{
+    ViewData["Title"] = "Home Page";
+}
+<style type="text/css">
+    .table tr td {
+        text-align:left;
+    }
+</style>
+<form asp-action="Index" role="form">
+    <div class="text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9">
+                    <input type="text" id="IFSC" name="IFSC" class="form-control" placeholder="IFSC Code" value="@ViewBag.IFSC" />
+                </div>
+                <div class="col-md-1">
+                    <input type="submit" name="Submit" id="btnSubmit" class="btn btn-primary" />
+                </div>
+            </div>
+            <div class="clearfix">&nbsp;</div>
+            <div class="row">
+                @if (Model != null)
+                {
+                    <table class="table table-bordered">
+                        <tbody>
+                            <tr>
+                                <td>@Html.DisplayNameFor(model => model.bank)</td>
+                                <td>@Html.DisplayFor(model => model.bank)</td>
+                            </tr>
+                            <tr>
+                                <td>@Html.DisplayNameFor(model => model.IFSC)</td>
+                                <td> @Html.DisplayFor(model => model.IFSC)</td>
+                            </tr>
+                            <tr>
+                                <td>@Html.DisplayNameFor(model => model.MICR)</td>
+                                <td> @Html.DisplayFor(model => model.MICR)</td>
+                            </tr>
+                            <tr>
+                                <td> @Html.DisplayNameFor(model => model.branch)</td>
+                                <td>  @Html.DisplayFor(model => model.branch)</td>
+                            </tr>
+                            <tr>
+                                <td> @Html.DisplayNameFor(model => model.Address)</td>
+                                <td>  @Html.DisplayFor(model => model.Address)</td>
+                            </tr>
+                            <tr>
+                                <td>  @Html.DisplayNameFor(model => model.Contact)</td>
+                                <td>  @Html.DisplayFor(model => model.Contact)</td>
+                            </tr>
+                            <tr>
+                                <td>   @Html.DisplayNameFor(model => model.City)</td>
+                                <td>  @Html.DisplayFor(model => model.City)</td>
+                            </tr>
+                            <tr>
+                                <td> @Html.DisplayNameFor(model => model.District)</td>
+                                <td>  @Html.DisplayFor(model => model.District)</td>
+                            </tr>
+                            <tr>
+                                <td> @Html.DisplayNameFor(model => model.State)</td>
+                                <td>  @Html.DisplayFor(model => model.State)</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                }
+
+            </div>
+        </div>
+    </div>
+    </form>
